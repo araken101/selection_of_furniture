@@ -1,0 +1,51 @@
+#load,#save,#add{
+	font-size: 3em;
+    font-weight: bold;
+
+    background-color: #248;
+    color: #fff;
+
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+
+    position: fixed;
+    top: 50px;
+}
+
+#load:hover {
+    background-color: #24d;
+    color: #fff;
+}
+#save:hover {
+    background-color: #24d;
+    color: #fff;
+}
+
+#add:hover {
+    background-color: #24d;
+    color: #fff;
+}
+
+
+#scale{
+	font-size: 1.5em;
+
+	position: fixed;
+	top: 480px;
+	left: 40px;
+}
+#load{
+	left:850px;
+}
+#save{
+	left:1025px;
+}
+#add{
+	left:1195px;
+}
+#list{
+	position: fixed;
+	top:150px;
+	left:850px;
+}
